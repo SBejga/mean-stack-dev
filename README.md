@@ -16,6 +16,8 @@ I am using nvm with aliases v4 (v4.x.x, currently: v4.3.0) and v5 (v5.x.x, curre
 
 because of major changes in mongodb v3.2 ensure that you use the latest v.3.2.x version of mongodb. Especially for usage of wiredTiger storageEngine and for changes in aggregration pipeline framework.
 
+If you are new to mongodb, I can recommend the mongodb university. In my case I did the [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) online course. A very good way to get familiar with MongoDB.
+
 ### Documentation
 
 I have struggled many times that I have opened the wrong MongoDB Documentation or the old MongoDB Node.js Driver Documentation.
