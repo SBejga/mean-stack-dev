@@ -64,6 +64,18 @@ After that I can both use
   yo angular-fullstack2
 ```
 
+I have started a fork of angular-fullstack based on branch `legacy-2.x.x` to fix issues. e.g. npm install failed last time when creating a new project and going to run npm install because of incompatible version of grunt-node-inspector. (I have just updated the version in package.json)
+
+- [SBejga/generator-angular-fullstack2](https://github.com/SBejga/generator-angular-fullstack2)
+ 
+```
+git clone https://github.com/SBejga/generator-angular-fullstack2
+cd generator-angular-fullstack2
+git checkout legacy-2.x.x
+npm install 
+npm link
+```
+
 ### server-side only geneator (MEN Stack)
 
   There is a server-side only from angular-fullstack generator (also from my prefered v2.1.1) called [generator-node-express-mongo](https://github.com/Liam-Williams/generator-node-express-mongo)
