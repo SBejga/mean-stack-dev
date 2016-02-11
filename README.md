@@ -8,7 +8,7 @@ My Notes for MEAN Stack Development
 
 I always install the stable LTS version of node.js via system installer from [nodejs.org](https://nodejs.org/en/).
 
-Additionally I install NVM (node version manager) to switch easily between different version of node.js and npm.
+Additionally I install [NVM (node version manager)](https://github.com/creationix/nvm) to switch easily between different version of node.js and npm.
 
 I am using nvm with aliases v4 (v4.x.x, currently: v4.3.0) and v5 (v5.x.x, currenly: v5.6.0)
 
